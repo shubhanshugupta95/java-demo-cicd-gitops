@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: java-demo
-        image: shubhanshugupta95/java-demo-cicd:latest
+        image: shubhanshugupta/java-demo-cicd:latest
         ports:
         - containerPort: 8080
